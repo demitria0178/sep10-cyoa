@@ -2,7 +2,7 @@ Mr. Mueller goes in for the egg but gets caught by the T-Rex as it lets out a ro
 
 Quickly what should he do?
 
-Try and help the T-rex!
+[Try and help the T-rex!](2Small-Attack1.md)
 
-Run away!
+[Run away!](2Small-Attack2.md)
 
