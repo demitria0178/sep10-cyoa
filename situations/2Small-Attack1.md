@@ -4,4 +4,4 @@ Mr. Muller uses his code senses to find the small dinosaurs weak spot and punche
 
 [Turn to the T-Rex](Ending1.md)
 
-[go and punch the T-Rex???](Ending1-5.md)
+
