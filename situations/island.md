@@ -1,5 +1,5 @@
 # Island
-Mr Mueller wakes up in prehistoric island
+Mr Muller wakes up in prehistoric island
 
 [Go left to the dry lands?](Dinosaurs-Home.md)
 
