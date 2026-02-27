@@ -1,6 +1,6 @@
 # Really?
 
-As muller sneaks around he, and sees a bunch of small dinosaurs try and steal the egg.
+As muller sneaks around and he sees a bunch of small dinosaurs try and steal the egg.
 
 what should he do?
 
