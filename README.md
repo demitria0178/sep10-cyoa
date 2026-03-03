@@ -1,1 +1,3 @@
-# sep10-cyoa
+# sep10-cyoa 
+
+[Start](island.md)
